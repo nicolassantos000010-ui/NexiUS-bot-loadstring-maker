@@ -1,0 +1,1 @@
+{"name":"roblox-script-bot","version":"1.0.0","description":"Bot para hospedar scripts Roblox no GitHub","main":"bot.js","scripts":{"start":"node bot.js","dev":"nodemon bot.js"},"dependencies":{"express":"^4.18.2","axios":"^1.6.0","multer":"^1.4.5-lts.1"},"devDependencies":{"nodemon":"^3.0.1"}}
